@@ -1,5 +1,21 @@
-<h1 align="center">Hi 👋, I'm Anish Tiwari</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F78437&lines=Hi+%F0%9F%91%8B%2C+I'm+Anish👨🏻‍💻;A+passionate+Backend+developer+&#128526;)](https://git.io/typing-svg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyakantid5&label=Profile%20views&color=0e75b6&style=flat"
+        alt="SOUMYA DUTTA" /> </p>
+
+
+<img align="right" alt="GIF" src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" width="1000" height="320" />
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" width="1000" height="320" />
+ 
+ <br/>
+ 
+ 
+ </br>
+ &nbsp;
+ 
+<!-- ##  Open-Source enthusiast || Coder !! -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me!+&#129321;)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishtiwari1531&label=Profile%20views&color=0e75b6&style=flat" alt="anishtiwari1531" /> </p>
 
